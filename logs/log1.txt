@@ -1,0 +1,4 @@
+log
+log 2
+log 3
+log 5
